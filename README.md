@@ -7,6 +7,9 @@ An interactive Python simulator to model macroeconomic equilibrium, calculate th
 * **Sensitivity Analysis:** Generates a detailed data table projecting income levels and planned spending in the terminal before launching the graphical interface.
 * **Dynamic Plotting:** Uses `matplotlib` to render the 45-degree reference line and the Aggregate Demand curve, automatically finding the intersection point.
 
+* <img width="1311" height="931" alt="image" src="https://github.com/user-attachments/assets/681469f4-b5e5-4098-aa5d-1f97f04c14b0" />
+
+
 ## 🛠️ Technologies Used
 * **Python 3**
 * **NumPy:** For generating evenly spaced data ranges.
