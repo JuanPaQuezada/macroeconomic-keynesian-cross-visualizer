@@ -29,7 +29,7 @@ An interactive Python simulator to model macroeconomic equilibrium, calculate th
 
 ---
 
-## 11. Author
+## Author
 
 **Juan Pablo Quezada**
 B.Sc. in Intelligent Computing Engineering
