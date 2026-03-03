@@ -26,3 +26,11 @@ An interactive Python simulator to model macroeconomic equilibrium, calculate th
    ```
 3. Enter the initial parameters in the terminal when prompted.
 4. Interact with the sliders in the graphical window to see real-time macroeconomic changes
+
+---
+
+## 11. Author
+
+**Juan Pablo Quezada**
+B.Sc. in Intelligent Computing Engineering
+Universidad Autónoma de Aguascalientes (UAA)
